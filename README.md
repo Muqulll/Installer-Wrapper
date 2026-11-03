@@ -1,3 +1,4 @@
+![My Custom Mascot](my masterpiece XD.png)
 # Installer Wrapper For Pacman and Paru
 
 I had to make it again cuz the original got nuked. The og had the yay as the AUR wrapper but this one has the paru cuz paru slaps...  
