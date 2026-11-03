@@ -1,4 +1,4 @@
-![My Custom Mascot](my masterpiece XD.png)
+![My Custom Mascot](<my masterpiece XD.png>)
 # Installer Wrapper For Pacman and Paru
 
 I had to make it again cuz the original got nuked. The og had the yay as the AUR wrapper but this one has the paru cuz paru slaps...  
@@ -12,4 +12,4 @@ Then : `cd Installer-Wrapper`
 
 Then Compile it using `g++`
 
-Then if you want then you can push this to Path and all and I aint gonna tell you that cuz you aint a kid to be taught that you are grown up...
+Then if you want then you can push this to Path and all, and I ain't gonna tell you how to do that cuz you aint a kid to be taught that. you are grown up...
